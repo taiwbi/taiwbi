@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @taiwbi (almost everywhere)
+- 👀 I love in programming, coding. I feel like a creator when I make a good app
+- 🌱 I’m currently learning Linux, Kali
+- 💞️ I’m looking to collaborate on ice-79 and @blockexbot on telegram
+- 📫 You can reach me at my email: admin@taiwbi.ir
